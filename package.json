@@ -1,0 +1,21 @@
+{
+  "name": "javan_cipta_solusi",
+  "version": "1.0.0",
+  "description": "javan bug hunting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "selenium",
+    "javascript"
+  ],
+  "author": "dwiky",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "chromedriver": "^117.0.1",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.12.0"
+  }
+}
